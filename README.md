@@ -6,7 +6,7 @@ To install the application and dependency components:
 ## Running application
 To run the server:
 
-**npm run server:watch
+**npm run server:watch**
 
 To run the client:
 
